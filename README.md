@@ -1,0 +1,1 @@
+# apache-php7-adminer-docker
